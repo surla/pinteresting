@@ -1,3 +1,3 @@
-Sample Rails Application
+# Sample Rails Application
 
 This is the pinteresting sample application.
